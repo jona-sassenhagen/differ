@@ -1,0 +1,12 @@
+{--The Israelites are multiplied in Egypt. They are oppressed by a new king, who commandeth all their male children to be killed.
+--}1:1 {--T--}{++Now t++}hese are the names of the children of Israel, {--that went--}{++which came++} into Egypt{-- with Jacob: they went in--}{++;++} every man {--with--}{++and++} his household{--:--}{++ came with Jacob.++}
+1:2 R{++e++}uben, Simeon, Levi, {--Juda,
+--}{++and Judah, ++}1:3 Issachar, Z{--abulo--}{++ebulu++}n, and Benjamin,{--
+--}{++ ++}1:4 Dan, and N{--ephth--}{++apht++}ali, Gad{++,++} and As{++h++}er.
+1:5 And all the souls that came out of {--Jacob's thigh,--}{++the loins of Jacob++} were seventy{++ souls++}: {--but--}{++for++} Joseph was in Egypt{++ already++}.
+1:6 A{--fter he was--}{++nd Joseph++} d{--ea--}{++ie++}d, and all his brethren, and all that generation{--,--}{++.++}
+1:7 {--T--}{++And t++}he children of Israel {--increased, and sprung up into multitudes, and growing--}{++were fruitful, and increased abundantly, and multiplied, and waxed++} exceeding{--ly strong they fille--}{++ mighty; an++}d the land{++ was filled with them++}.
+1:8 {--In the mean time--}{++Now++} there arose{++ up++} a new king over Egypt, {--that--}{++which++} knew not Joseph{--:--}{++.++}
+1:9 And he said {++un++}to his people{--:--}{++,++} Behold{++,++} the people of the children of Israel are {--numerous--}{++more++} and {--strong--}{++mighti++}er than we{--.--}{++: ++}
+1:10 Come {++on, ++}let us{++ deal++} wisely {--oppress--}{++with++} them{--,--}{++;++} lest they multiply{--:--}{++,++} and i{--f--}{++t come to pass, that, when there falleth out++} any war{++,++} {--shall rise against us,--}{++they++} join {--with--}{++also unto++} our enemies, and {--having overcome--}{++fight against++} us, {--depart--}{++and so get them up++} out of the land.
+1:11 Therefore {--he--}{++they did++} set over them {--masters of the works,--}{++taskmasters++} to afflict them with {--burdens: a--}{++their burdens. A++}nd they built for Pharao{++h treasure++} cities{-- of tabernacles, Phithom,--}{++, Pithom++} and Ra{--messes.--}{++amses.++}
