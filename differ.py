@@ -16,6 +16,17 @@ import os, sys
 # Markdown, the human-readable markup for blogs and comments.
 # See: http://criticmarkup.com/spec.php
 
+# Note: this is apparently just how diff works, from the early 70s. 
+#   maybe check out Diff-Text for more ideas on detecting moved 
+#  blocks of text. 
+
+#  Also, some way to interact specifically with 
+#    Word's tracked changes would be ideal. Oh, wait, someone 
+#    has done that too, it's just already in Word
+#    Create a Track Changes Document by Comparing Two Microsoft Word Files
+#      - John Garger
+#    http://bit.ly/WcXpx3
+
 # TODO:
 #   1. Better tokens, don't bother looking for substrings character by 
 #      character, but word by word. This would improve both efficiency and 
@@ -31,13 +42,6 @@ def longest_common_substring(S1, S2):
   # find common substring len 1 or return None
 
   # there are better algorithms, maybe suffix trees? 
-  
-  # Oh come on this is readable, and data should be very short anyway
-  
-  # BUT this is O(nm*n) at best (i think), others are O(nm) at worst! 
-  # and efficiency always matters! YOU HATE IT WHEN THINGS ARE SLOW!
-
-  # meh, so hard
   
   best_substring = ""
   for best_length in range(len(S1)):
